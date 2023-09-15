@@ -1,5 +1,5 @@
-name: CrashFixer
-main: wiligangster\CrashFixer\Main
-author: TutoGamerWalid (wiligangster)
-api: 3.5.2
+name: FixerCrash
+main: NurAzliYT\FixerCrash\Main
+author: NurAzliYT
+api: 5.0.0
 version: 1.0
