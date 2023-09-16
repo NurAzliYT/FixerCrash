@@ -2,4 +2,5 @@ name: FixerCrash
 main: NurAzliYT\FixerCrash\Main
 author: NurAzliYT
 api: 5.0.0
-version: 1.0
+version: 1.0.0
+depend: [BedrockEconomy]
